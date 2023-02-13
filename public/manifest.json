@@ -1,6 +1,6 @@
 {
-	"short_name": "firstReact",
-	"name": "First react app",
+	"short_name": "taskTracker",
+	"name": "React task tracker",
 	"icons": [
 		{
 			"src": "favicon.ico",
