@@ -5,7 +5,7 @@ function Todo({ todo, toggleTodo }) {
     }
 	return (
 		<div>
-            <label> {todo.name} </label>
+            <label> {todo.name + ": "} </label>
             <input type="checkbox" checked={todo.complete} onChange={toggle}/>
 		</div>
 	);
